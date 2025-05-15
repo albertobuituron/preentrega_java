@@ -39,23 +39,23 @@ Permite crear, modificar, listar y eliminar tanto artículos como pedidos a trav
 
 - **Menu Principal**
 
-![alt text](./img/menuPrincipal.png)
+![menu principal](./img/menuPrincipal.png)
 
 - **Menú Artículos**
 
-![alt text](./img/menuArticulos.png)
+![menu artículos](./img/menuArticulos.png)
 
 
 - **Menú Pedidos**
 
-![alt text](./img/menuPedidos.png)
+![menu pedidos](./img/menuPedidos.png)
 
 
 
 
 - **Validaciones de las opciones ingresadas al crear un Artículo**
 
-![alt text](./img/validaciones1.png)
+![menu articulos](./img/validaciones1.png)
 
 
 
